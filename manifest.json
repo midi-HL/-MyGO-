@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "「景深」长崎素世 [MyGO!!!!!] 支持：缓慢亮屏",
-    "description": "",
+    "description": "支持：缓慢亮屏",
     "preview": [
       "xmbnad9.png"
     ],
@@ -14,7 +14,11 @@
     ]
   },
   "downloads": {
-    "M2345B1": {
+    "n66gl": {
+      "version": "1.0",
+      "file_name": "mygo-V13-202511151123.bin"
+    },
+    "n66cn": {
       "version": "1.0",
       "file_name": "mygo-V13-202511151123.bin"
     }
