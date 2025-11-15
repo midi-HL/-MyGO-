@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "「景深」长崎素世 [MyGO!!!!!] 支持：缓慢亮屏",
-    "description": "支持：缓慢亮屏",
+    "description": "支持：缓慢亮屏\n本内容之版权归原作者所有，仅作分享交流使用。如有侵权，请联系我以便立即处理或下架。\n个人B站账号：https://space.bilibili.com/577919254",
     "preview": [
       "xmbnad9.png"
     ],
@@ -14,11 +14,7 @@
     ]
   },
   "downloads": {
-    "n66gl": {
-      "version": "1.0",
-      "file_name": "mygo-V13-202511151123.bin"
-    },
-    "n66cn": {
+    "n66": {
       "version": "1.0",
       "file_name": "mygo-V13-202511151123.bin"
     }
